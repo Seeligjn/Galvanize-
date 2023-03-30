@@ -11,3 +11,6 @@ function returnPyramid(height) {
 console.log(returnPyramid(5)); //=> ['#','##']
 returnPyramid(4); //=> ['#','##','###','####']
 returnPyramid(6); //=> ['#','##','###','####','#####','######']
+
+
+console.log('hi')
